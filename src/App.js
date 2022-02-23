@@ -67,26 +67,7 @@ function App () {
       </section>
       <footer>
         <div className="waves">
-          <div className="waves" id="wave1"></div>
-          <div className="waves" id="wave2"></div>
-          <div className="waves" id="wave3"></div>
-          <div className="waves" id="wave4"></div>
-        </div>
-        <div>
-          <ul className="social_icon">
-            <li>
-              <a href="/">
-                   <img src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50" height="50" alt="Whatssap"></img>
-             </a>
-             <a href="/">
-                   <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="50" height="50" alt="Linkedin"></img>
-             </a>
-              <a href="/">
-                   <img src="https://cdn-icons-png.flaticon.com/128/733/733579.png" width="50" height="50" alt="twitter"></img>
-             </a>
-           </li>
-         </ul>
-         <p className="fim">@2021 Gustavo Cianci | All rights reserved</p>
+         <p className="fim">@2021 Gustavo Cianci | feito com ❤️</p>
          </div>
       </footer> 
 
