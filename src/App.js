@@ -67,7 +67,7 @@ function App () {
       </section>
       <footer>
         <div className="waves">
-         <p className="fim">@2021 Gustavo Cianci | feito com ❤️</p>
+         <p className="fim">@2022 Gustavo Cianci | feito com ❤️</p>
          </div>
       </footer> 
 
